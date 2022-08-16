@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "CommonJS",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "outDir": "app/",
+    "strictNullChecks": true
+  }
+}
